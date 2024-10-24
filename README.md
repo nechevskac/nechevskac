@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ceca! 👩‍💻
+
+Frontend Engineer by day, pixel perfectionist by night—crafting sleek, snappy web apps with React ⚛️ , TypeScript, and a sprinkle of CSS 💅 magic!
 
 <!--
 **nechevskac/nechevskac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
